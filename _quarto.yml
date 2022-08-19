@@ -3,11 +3,21 @@ project:
 
 website:
   title: "Stat 20 Staff Resources"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - section: Agenda
+        contents:
+          - href: tutor-agenda.qmd
+            text: Tutor Agenda
+          - href: reader-agenda.qmd
+            text: Reader Agenda
+      - href: roles-and-expectations.qmd
+        text: Roles & Expectations
+        
 
 format:
   html:
