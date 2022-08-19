@@ -25,7 +25,7 @@ website:
 format:
   html:
     theme: sandstone
-    css: styles.css
+    css: assets/styles.css
     toc: true
 
 
