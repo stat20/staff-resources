@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c6ad14d8-aa8d-4eb3-8e56-0343c0037240
+      url: 'https://stat20-staff.netlify.app'

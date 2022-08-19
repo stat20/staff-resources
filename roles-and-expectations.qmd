@@ -1,0 +1,35 @@
+---
+title: "Roles and Expectation"
+---
+
+## Instructors
+
+The role of instructors is to ...
+
+
+#### Expectations
+
+- the first
+- the second
+
+
+## Tutors
+
+The role of tutors is to ...
+
+
+#### Expectations
+
+- the first
+- the second
+
+
+## Readers
+
+The role of readers is to ...
+
+
+#### Expectations
+
+- the first
+- the second
